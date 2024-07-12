@@ -1,9 +1,9 @@
 # Apartment Management System
 
- Overview
+# Overview
 The Apartment Management System is a web application designed to help manage the various administrative tasks of an apartment complex. It includes functionalities for managing apartments, residents, monthly charges, late penalties, and more.
 
- Features
+# Features
 - *Admin Dashboard*: Centralized control panel for administrators to manage the entire system.
 - *Resident Dashboard*: Interface for residents to view their apartment details and charges.
 - *Apartment Management*: Add, edit, and view apartment details.
@@ -12,7 +12,40 @@ The Apartment Management System is a web application designed to help manage the
 - *Late Penalty Calculation*: Tools to calculate and manage late payment penalties.
 - *Invoice Generation*: Generate and view invoices for charges.
 
- File Structure
+# Preview Images
+Here are some screenshots of the application:
+
+## Admin Dashboard
+![Admin Dashboard](assets/images/admin-dashboard.png)
+
+## Resident Dashboard
+![Resident Dashboard](assets/images/resident-dashboard.png)
+
+## Add Apartment
+![Add Apartment](assets/images/add-apartment.png)
+
+## View Apartment
+![View Apartment](assets/images/view-apartment.png)
+
+## Add Late Penalty
+![Add Late Penalty](assets/images/add-late-penalty.png)
+
+## View Late Penalty
+![View Late Penalty](assets/images/view-late-penalty.png)
+
+## Login Page
+![Login Page](assets/images/login.png)
+
+## Registration Page
+![Registration Page](assets/images/registration.png)
+
+## Invoice Page
+![Invoice Page](assets/images/invoice.png)
+
+## Monthly Charges
+![Monthly Charges](assets/images/monthly-charges.png)
+
+# File Structure
 - *index.php*: Main entry point of the application.
 - *admin-dashboard.php*: Dashboard interface for administrators.
 - *resident-dashboard.php*: Dashboard interface for residents.
@@ -23,7 +56,7 @@ The Apartment Management System is a web application designed to help manage the
 - *config.php*: Configuration file for database connections and other settings.
 - *assets/*: Directory containing CSS, fonts, images, and JavaScript libraries.
 
- Installation
+# Installation
 1. *Clone the repository*:
     ```bash
     git clone <repository-url>
@@ -42,17 +75,17 @@ The Apartment Management System is a web application designed to help manage the
 4. *Import the database schema* from `database.sql` (if provided).
 5. *Run the application* on a local server or deploy it on a web server.
 
- Usage
+# Usage
 - *Admin Login*: Access the admin dashboard to manage apartments, residents, and charges.
 - *Resident Login*: Residents can log in to view their apartment details and monthly charges.
 
- Dependencies
+# Dependencies
 - PHP
 - MySQL
 - Various front-end libraries (included in the `assets/` directory)
 
- Contributing
+# Contributing
 Contributions are welcome! Please fork the repository and submit pull requests for any features, improvements, or bug fixes.
 
- License
+# License
 This project is licensed under the MIT License. See the LICENSE file for more details.
