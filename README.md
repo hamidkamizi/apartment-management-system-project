@@ -15,35 +15,19 @@ The Apartment Management System is a web application designed to help manage the
 # Preview Images
 Here are some screenshots of the application:
 
-## Admin Dashboard
-![Admin Dashboard](assets/images/admin-dashboard.png)
+## Preview Images
+![preview_images](preview-images/1.png)
+![preview_images](preview-images/2.png)
+![preview_images](preview-images/3.png)
+![preview_images](preview-images/4.png)
+![preview_images](preview-images/4.png)
+![preview_images](preview-images/5.png)
+![preview_images](preview-images/6.png)
+![preview_images](preview-images/7.png)
+![preview_images](preview-images/8.png)
+![preview_images](preview-images/9.png)
+![preview_images](preview-images/10.png)
 
-## Resident Dashboard
-![Resident Dashboard](assets/images/resident-dashboard.png)
-
-## Add Apartment
-![Add Apartment](assets/images/add-apartment.png)
-
-## View Apartment
-![View Apartment](assets/images/view-apartment.png)
-
-## Add Late Penalty
-![Add Late Penalty](assets/images/add-late-penalty.png)
-
-## View Late Penalty
-![View Late Penalty](assets/images/view-late-penalty.png)
-
-## Login Page
-![Login Page](assets/images/login.png)
-
-## Registration Page
-![Registration Page](assets/images/registration.png)
-
-## Invoice Page
-![Invoice Page](assets/images/invoice.png)
-
-## Monthly Charges
-![Monthly Charges](assets/images/monthly-charges.png)
 
 # File Structure
 - *index.php*: Main entry point of the application.
